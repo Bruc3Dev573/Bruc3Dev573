@@ -4,6 +4,7 @@ ROM patches and MiSTer FPGA work.
 
 ## ROM patches
 
+- [Castlevania: Symphony of the Night - JP-ITA QHack](https://github.com/Bruc3Dev573/sotn-jp-ita-qhack): QHack v1.3 port for the Italian-translated Japanese Rev 2 release.
 - [Final Match Tennis 2026](https://github.com/Bruc3Dev573/final-match-tennis-2026): ATP and WTA 2026 roster patches for PC Engine.
 
 ## MiSTer FPGA
