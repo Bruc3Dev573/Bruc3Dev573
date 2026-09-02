@@ -11,6 +11,7 @@ ROM hacking and MiSTer FPGA core work: translations, patches, and savestate port
 
 | Project | Description |
 |---|---|
+| [Castlevania: Aria of Sorrow, Italian Enhanced Edition](https://github.com/Bruc3Dev573/castlevania-aos-ita) | Italian translation with visual improvements and optional gameplay variants |
 | [Castlevania: Harmony of Dissonance, Italian translation](https://github.com/Bruc3Dev573/castlevania-hod-ita) | Unofficial Italian translation, compatible with Visual Improvement V1.2.7 |
 | [Castlevania: Symphony of the Night, JP-ITA QHack](https://github.com/Bruc3Dev573/sotn-jp-ita-qhack) | QHack v1.3 ported onto the Italian-translated Japanese Rev 2 release |
 | [Final Match Tennis 2026](https://github.com/Bruc3Dev573/final-match-tennis-2026) | ATP and WTA 2026 roster patches for PC Engine |
