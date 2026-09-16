@@ -7,6 +7,17 @@ ROM hacking and MiSTer FPGA core work: translations, patches, and savestate port
 ![PC Engine](https://img.shields.io/badge/PC%20Engine-1E5AA8?style=flat-square)
 ![MiSTer FPGA](https://img.shields.io/badge/MiSTer%20FPGA-2E7D32?style=flat-square)
 
+## What I'm working on
+
+Updated September 16, 2026.
+
+1. **TurboGrafx-16 / PC Engine CD savestates**  
+   Working on tested titles. Compatibility testing and fixes come next.
+
+2. **MegaCD / Sega CD savestates**  
+   Hardware testing continues in parallel.  
+   **75 of 201 discs confirmed working, about 37%.**
+
 ## Translations and ROM patches
 
 | Project | Description |
