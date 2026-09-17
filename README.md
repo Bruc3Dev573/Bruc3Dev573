@@ -9,14 +9,14 @@ ROM hacking and MiSTer FPGA core work: translations, patches, and savestate port
 
 ## What I'm working on
 
-Updated September 16, 2026.
+Updated September 17, 2026.
 
 1. **TurboGrafx-16 / PC Engine CD savestates**  
    Working on tested titles. Compatibility testing and fixes come next.
 
 2. **MegaCD / Sega CD savestates**  
    Hardware testing continues in parallel.  
-   **75 of 201 discs confirmed working, about 37%.**
+   **90 of 201 discs confirmed working, about 45%.**
 
 ## Translations and ROM patches
 
