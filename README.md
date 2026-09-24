@@ -9,11 +9,11 @@ ROM hacking and MiSTer FPGA core work: translations, patches, and savestate port
 
 ## What I'm working on
 
-Updated September 22, 2026.
+Updated September 24, 2026.
 
 1. **TurboGrafx-16 / PC Engine CD savestates**  
-   The next update adds SD persistence for CD savestates and more CD fixes.  
-   Save and load tested on hardware. Broader testing is ongoing.
+   [v0.2.0-pre1](https://github.com/Bruc3Dev573/TurboGrafx16_MiSTer/releases/tag/v0.2.0-pre1) is out: HuCard and CD, with SD persistence for CD slots.  
+   CD needs the [companion Main](https://github.com/Bruc3Dev573/Main_MiSTer/releases/tag/tg16-savestates-v0.2.0-pre1). Reports welcome in the issues.
 
 2. **MegaCD / Sega CD savestates**  
    Hardware testing continues in parallel.  
@@ -36,4 +36,4 @@ Updated September 22, 2026.
 | [GBA core](https://github.com/Bruc3Dev573/GBA_MiSTer) | Unofficial build adding an OSD freeze button |
 | [SNES core, CX4 savestates](https://github.com/Bruc3Dev573/SNES_MiSTer_cx4) | CX4 coprocessor savestate support (Mega Man X2/X3) |
 | [SNES core](https://github.com/Bruc3Dev573/SNES_MiSTer) | Fork of the upstream core, not actively maintained, with one build fixing an SDRAM timing issue on SuperStation One hardware |
-| [TurboGrafx-16 / PC Engine CD core](https://github.com/Bruc3Dev573/TurboGrafx16_MiSTer) | Upstream fork with savestate support for HuCard, CD-ROM² and Super CD-ROM² titles. Next update in testing |
+| [TurboGrafx-16 / PC Engine CD core](https://github.com/Bruc3Dev573/TurboGrafx16_MiSTer) | Upstream fork with savestate support for HuCard, CD-ROM² and Super CD-ROM² titles. Latest: v0.2.0-pre1 |
