@@ -13,7 +13,7 @@ ROM hacking and MiSTer FPGA core work: translations, patches, and savestate port
 | Core | What it adds | Download | Status |
 |---|---|---|---|
 | [TurboGrafx16 / PC Engine](https://github.com/Bruc3Dev573/TurboGrafx16_MiSTer) | Savestates for HuCard, SuperGrafx and CD games | [v0.2.0-pre2](https://github.com/Bruc3Dev573/TurboGrafx16_MiSTer/releases/tag/v0.2.0-pre2) | Test build. CD games also need the modified Main |
-| [MegaCD / Sega CD](https://github.com/Bruc3Dev573/MegaCD_MiSTer) | Savestates | [v0.1.0-pre5](https://github.com/Bruc3Dev573/MegaCD_MiSTer/releases/tag/v0.1.0-pre5) | Test build. Needs the modified Main |
+| [MegaCD / Sega CD](https://github.com/Bruc3Dev573/MegaCD_MiSTer) | Savestates | [v0.1.0-pre6](https://github.com/Bruc3Dev573/MegaCD_MiSTer/releases/tag/v0.1.0-pre6) | Test build. Needs the modified Main |
 | [SNES](https://github.com/MiSTer-devel/SNES_MiSTer) | Savestates for CX4 games, Mega Man X2 and X3 | Official core | Merged in [PR #487](https://github.com/MiSTer-devel/SNES_MiSTer/pull/487), part of the official core since release 20260823 |
 | [SNES for SuperStation One](https://github.com/Bruc3Dev573/SNES_MiSTer) | Fix for savestates that get corrupted on some SuperStation One boards ([#505](https://github.com/MiSTer-devel/SNES_MiSTer/issues/505)) | [snes_ss_fwdual_15082026](https://github.com/Bruc3Dev573/SNES_MiSTer/releases/tag/snes_ss_fwdual_15082026) | Only for affected boards. Based on the official core of 4 August 2026 |
 | [GBA](https://github.com/Bruc3Dev573/GBA_MiSTer) | OSD freeze button | [pause-hotkey-20260831](https://github.com/Bruc3Dev573/GBA_MiSTer/releases/tag/pause-hotkey-20260831) | Unofficial build. Hardware testing is limited |
