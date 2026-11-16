@@ -27,6 +27,7 @@ Install steps for these cores, and the modified Main that TurboGrafx16 and MegaC
 |---|---|---|---|
 | [SNES for SuperStation One](https://github.com/Bruc3Dev573/SNES_MiSTer) | Fix for savestates that get corrupted on some SuperStation One boards ([#505](https://github.com/MiSTer-devel/SNES_MiSTer/issues/505)) | [snes_ss_fwdual_15082026](https://github.com/Bruc3Dev573/SNES_MiSTer/releases/tag/snes_ss_fwdual_15082026) | Fixed upstream in [PR #525](https://github.com/MiSTer-devel/SNES_MiSTer/pull/525), merged on 5 November 2026, coming in the next official release. Until then this workaround still works |
 | [GBA](https://github.com/Bruc3Dev573/GBA_MiSTer) | OSD freeze button | [pause-hotkey-20260831](https://github.com/Bruc3Dev573/GBA_MiSTer/releases/tag/pause-hotkey-20260831) | Unofficial build. Hardware testing is limited |
+| [SNES with Pause](https://github.com/Bruc3Dev573/SNES_MiSTer/tree/pause) | Mappable Pause button; HDMI keeps the last frame while paused | [pause-20261115](https://github.com/Bruc3Dev573/SNES_MiSTer/releases/tag/pause-20261115) | One-off build on the official core of 5 November 2026, not kept up to date |
 
 ### Merged upstream
 
