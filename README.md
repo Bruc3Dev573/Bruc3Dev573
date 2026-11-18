@@ -9,6 +9,15 @@ ROM hacking and MiSTer FPGA core work: translations, patches, and savestate port
 ![32X](https://img.shields.io/badge/32X-B71C1C?style=flat-square)
 ![MiSTer FPGA](https://img.shields.io/badge/MiSTer%20FPGA-2E7D32?style=flat-square)
 
+## How I work
+
+I use AI tools throughout my work: RTL, tools, debugging and my English.
+Changes go through several rounds of review and testing in private repos before they're published,
+and each release says what was tested and on what hardware.
+I'm responsible for what I publish: report problems in my repos, not to the original core authors.
+Feedback on the code is welcome, and I'll rework it if needed to go upstream. If a question goes
+beyond what I know, I'll say so and look into it.
+
 ## MiSTer FPGA
 
 ### Savestate cores
