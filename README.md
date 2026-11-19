@@ -26,7 +26,7 @@ beyond what I know, I'll say so and look into it.
 |---|---|---|---|
 | [TurboGrafx16 / PC Engine](https://github.com/Bruc3Dev573/TurboGrafx16_MiSTer) | Savestates for HuCard, SuperGrafx and CD games | [v0.2.0-pre2](https://github.com/Bruc3Dev573/TurboGrafx16_MiSTer/releases/tag/v0.2.0-pre2) | Test build. CD games also need the modified Main |
 | [MegaCD / Sega CD](https://github.com/Bruc3Dev573/MegaCD_MiSTer) | Savestates | [v0.1.1](https://github.com/Bruc3Dev573/MegaCD_MiSTer/releases/tag/v0.1.1) | Stable release. Needs the modified Main |
-| [Sega 32X](https://github.com/Bruc3Dev573/S32X_MiSTer) | Savestates for 32X and Mega Drive games, Virtua Racing with its SVP chip, Pier Solar | [v0.1.0-pre2](https://github.com/Bruc3Dev573/S32X_MiSTer/releases/tag/v0.1.0-pre2) | Test build. Works with the official Main |
+| [Sega 32X](https://github.com/Bruc3Dev573/S32X_MiSTer) | Savestates for 32X and Mega Drive games, Virtua Racing with its SVP chip, Pier Solar | [v0.1.0-pre3](https://github.com/Bruc3Dev573/S32X_MiSTer/releases/tag/v0.1.0-pre3) | Test build. Works with the official Main |
 
 Install steps for these cores, and the modified Main that TurboGrafx16 and MegaCD need, are on [MiSTer-savestates](https://github.com/Bruc3Dev573/MiSTer-savestates). Reports are welcome in the issues of each core's repository.
 
