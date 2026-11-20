@@ -7,6 +7,7 @@ ROM hacking and MiSTer FPGA core work: translations, patches, and savestate port
 ![PC Engine](https://img.shields.io/badge/PC%20Engine-1E5AA8?style=flat-square)
 ![Mega CD](https://img.shields.io/badge/Mega%20CD-37474F?style=flat-square)
 ![32X](https://img.shields.io/badge/32X-B71C1C?style=flat-square)
+![Commodore 64](https://img.shields.io/badge/Commodore%2064-6C5EB5?style=flat-square)
 ![MiSTer FPGA](https://img.shields.io/badge/MiSTer%20FPGA-2E7D32?style=flat-square)
 
 ## How I work
@@ -27,8 +28,9 @@ beyond what I know, I'll say so and look into it.
 | [TurboGrafx16 / PC Engine](https://github.com/Bruc3Dev573/TurboGrafx16_MiSTer) | Savestates for HuCard, SuperGrafx and CD games | [v0.2.0-pre2](https://github.com/Bruc3Dev573/TurboGrafx16_MiSTer/releases/tag/v0.2.0-pre2) | Test build. CD games also need the modified Main |
 | [MegaCD / Sega CD](https://github.com/Bruc3Dev573/MegaCD_MiSTer) | Savestates | [v0.1.1](https://github.com/Bruc3Dev573/MegaCD_MiSTer/releases/tag/v0.1.1) | Stable release. Needs the modified Main |
 | [Sega 32X](https://github.com/Bruc3Dev573/S32X_MiSTer) | Savestates for 32X and Mega Drive games, Virtua Racing with its SVP chip, Pier Solar | [v0.1.0-pre3](https://github.com/Bruc3Dev573/S32X_MiSTer/releases/tag/v0.1.0-pre3) | Test build. Works with the official Main |
+| [Commodore 64](https://github.com/Bruc3Dev573/C64_MiSTer) | Savestates of the whole machine, also during disk and tape loads: 1541 and 1581 drives, datassette, cartridges with EasyFlash, REU up to 16 MB, GeoRAM, Sound Expander | [v0.1.0-pre2](https://github.com/Bruc3Dev573/C64_MiSTer/releases/tag/v0.1.0-pre2) | Test build. Slot files on the SD card need the modified Main |
 
-Install steps for these cores, and the modified Main that TurboGrafx16 and MegaCD need, are on [MiSTer-savestates](https://github.com/Bruc3Dev573/MiSTer-savestates). Reports are welcome in the issues of each core's repository.
+Install steps for these cores, and the modified Main that TurboGrafx16, MegaCD and C64 need, are on [MiSTer-savestates](https://github.com/Bruc3Dev573/MiSTer-savestates). Reports are welcome in the issues of each core's repository.
 
 ### Other builds
 
@@ -40,6 +42,7 @@ Install steps for these cores, and the modified Main that TurboGrafx16 and MegaC
 | [MegaCD with Pause](https://github.com/Bruc3Dev573/MegaCD_MiSTer/tree/pause) | Savestates v0.1.1 plus a mappable Pause button that stops picture, sound and CD drive | [v0.1.1-pause](https://github.com/Bruc3Dev573/MegaCD_MiSTer/releases/tag/v0.1.1-pause) | One-off build; the regular one is v0.1.1. Disc images need the same Main as v0.1.1 |
 | [32X with Pause](https://github.com/Bruc3Dev573/S32X_MiSTer/tree/pause) | Savestates v0.1.0-pre3 plus a mappable Pause button (also the keyboard Pause key) that stops everything, Virtua Racing included | [v0.1.0-pre3-pause](https://github.com/Bruc3Dev573/S32X_MiSTer/releases/tag/v0.1.0-pre3-pause) | One-off build; the regular one is v0.1.0-pre3 |
 | [TurboGrafx16 with Pause](https://github.com/Bruc3Dev573/TurboGrafx16_MiSTer/tree/pause) | Savestates v0.2.0-pre2 plus a mappable Pause button that also stops CD music | [v0.2.0-pre2-pause](https://github.com/Bruc3Dev573/TurboGrafx16_MiSTer/releases/tag/v0.2.0-pre2-pause) | One-off build; the regular one is v0.2.0-pre2. CD games need the same Main as v0.2.0-pre2 |
+| [C64 with Pause](https://github.com/Bruc3Dev573/C64_MiSTer/tree/pause) | Savestates v0.1.0-pre2 plus a mappable Pause button (also the keyboard Pause/Break key) that stops the machine, drives and tape included | [v0.1.0-pre2-pause](https://github.com/Bruc3Dev573/C64_MiSTer/releases/tag/v0.1.0-pre2-pause) | One-off build; the regular one is v0.1.0-pre2. Same Main as v0.1.0-pre2 |
 
 ### Merged upstream
 
